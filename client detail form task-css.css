@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(49, 255, 159);
+}
+#div1{
+    background-color: white;
+    text-align: center;
+    margin-bottom: 0px;
+}
+header{
+    background-color: rgb(52, 50, 50);
+    color: white;
+    padding-bottom: 2px;
+}
+#head1{
+    margin-bottom: 0px;
+    
+}
+#para1{
+    margin-top: 0px;
+}
+#form{
+    background-color: white;
+}
+#div2{
+    margin-top: 0px;
+    
+
+}
+#divm{
+margin-top: 10%;
+margin-right:20%;
+margin-left:20%;
+margin-bottom: 10%;
+
+}
+
+#name,#comp,#title,#con,#add,#add2,#add3,#url,#logo,#hour,
+#days,#bill,#adi{
+    border-style:none;
+    border-bottom: 1px solid black;
+    margin-left:150px;
+
+}
+#comp{
+    margin-left:165px;
+}
+#title{
+    margin-left:197px;
+}
+#deo{
+    margin-left: 146px;
+}
+#con{
+    margin-left:65px;
+}
+#add{
+    margin-left: 105px;
+}
+#add2{
+    margin-left: 430px;
+}
+#add3{
+    margin-left: 430px;
+}
+#url{
+    margin-left: 107px;
+}
+
+#logo{
+    border-style: dotted;
+    border-color: gray;
+    border-radius: 5%;
+    margin-left: 128px;
+}
+#hour{
+    margin-left: 125px;
+}
+#days{
+    margin-left: 130px;
+}
+#bill{
+    margin-left: 136px;
+}
+#adi{
+    margin-left: 70px;
+}
+#submit{
+    margin-right:200px;
+    margin-left:350px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 21px;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+#submit:hover{
+    background-color: rgb(11, 140, 48);
+    transition: 1s;
+}
+.space{
+    margin-left: 200px;
+}
